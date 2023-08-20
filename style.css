@@ -1,7 +1,23 @@
-body {
-  font-family:"Montserrat",sans-serif;
+html {
+  scroll-behavior: smooth;
 }
 
-main > h1{
+* {
+  font-family:"Nunito",sans-serif;
+  font-weight: 400;
+}
+
+main > h1, h2{
   text-align: center;
+}
+
+/* colours */
+.text-purple {
+  color: #c6a6f7;
+}
+
+/* fonts */ 
+.bold-font{
+  font-family: "Nunito", sans-serif;
+  font-weight: 800;
 }
