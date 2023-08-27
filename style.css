@@ -17,7 +17,12 @@ main > h1, h2{
 }
 
 /* fonts */ 
+.main-font{
+    font-family: "Nunito", sans-serif;
+    font-weight: 400;
+  }
 .bold-font{
   font-family: "Nunito", sans-serif;
   font-weight: 800;
 }
+
